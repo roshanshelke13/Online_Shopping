@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/TOP_COURSE_STARTER/static/css/main.72163e0d.css",
-    "main.js": "/TOP_COURSE_STARTER/static/js/main.e20d9517.js",
-    "index.html": "/TOP_COURSE_STARTER/index.html",
-    "main.72163e0d.css.map": "/TOP_COURSE_STARTER/static/css/main.72163e0d.css.map",
-    "main.e20d9517.js.map": "/TOP_COURSE_STARTER/static/js/main.e20d9517.js.map"
+    "main.css": "/Online_Shopping/static/css/main.72163e0d.css",
+    "main.js": "/Online_Shopping/static/js/main.e20d9517.js",
+    "index.html": "/Online_Shopping/index.html",
+    "main.72163e0d.css.map": "/Online_Shopping/static/css/main.72163e0d.css.map",
+    "main.e20d9517.js.map": "/Online_Shopping/static/js/main.e20d9517.js.map"
   },
   "entrypoints": [
     "static/css/main.72163e0d.css",
